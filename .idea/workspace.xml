@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62bec358-104d-49a3-973e-749c3c4a43d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/addons.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons.xml.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin.video.winner/plugin.video.winner-2.8.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository.poligex/repository.poligex-1.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/libs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/libs/httptools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/libs/mod/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/libs/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/icon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/live.gif" beforeDir="false" />
-    </list>
+    <list default="true" id="62bec358-104d-49a3-973e-749c3c4a43d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
