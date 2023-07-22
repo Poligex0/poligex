@@ -1,5 +1,5 @@
 script_name = "repo_prep.py"
-revision_number = 2
+revision_number = 5
 homepage = 'http://forum.xbmc.org/showthread.php?tid=129401'
 script_credits = 'All code copyleft (GNU GPL v3) by Unobtanium @ XBMC Forums'
 
@@ -20,11 +20,11 @@ To enable the auto-compressor, set the compress_addons setting to True
 NOTE: the settings.py of repository aggregator will override this setting.
 If you do this you must make sure the "datadir zip" parameter in the addon.xml of your repository file is set to "true".
 """
-import os
-import shutil
 import md5
-import zipfile
+import os
 import re
+import shutil
+import zipfile
 
 ########## SETTINGS
 # Set whether you want your addons compressed or not. Values are True or False
