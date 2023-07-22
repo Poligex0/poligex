@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.poligex2" name="[COLOR lime]poligex[/COLOR] Repo" version="2" provider-name="poligex">
+<addon id="repository.poligex" name="[COLOR lime]poligex[/COLOR] Repo" version="1" provider-name="poligex">
     <extension point="xbmc.addon.repository" name="poligex1">
         <info>https://raw.githubusercontent.com/Poligex0/poligex/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Poligex0/poligex/addons.xml.md5</checksum>
