@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62bec358-104d-49a3-973e-749c3c4a43d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/poligex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poligex.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.video.winner/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.video.winner/plugin.video.winner-2.8.1.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Oscar/Documents/GitHub/poligex",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="RunManager">
